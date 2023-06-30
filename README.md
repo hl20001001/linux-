@@ -1,18 +1,5 @@
 # linux-
 # Nmap 参数说明
-## 导航
-
-1. [主机选择](#host-selection)
-2. [主机发现](#host-discovery)
-3. [扫描技术](#scan-techniques)
-4. [端口指定和扫描顺序](#port-specification-and-scan-order)
-5. [服务/版本检测](#service-version-detection)
-6. [脚本扫描](#script-scanning)
-7. [OS检测](#os-detection)
-8. [时序和性能](#timing-and-performance)
-9. [防火墙/IDS规避和欺骗](#firewall-ids-evasion-and-decoy)
-10. [输出](#output)
-11. [其他选项](#miscellaneous-options)
 
 <!-- 以下是每个部分的详细说明 -->
 
